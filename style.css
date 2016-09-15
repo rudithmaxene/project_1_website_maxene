@@ -1,4 +1,7 @@
 body{background-color:white;}
-h1 {color: red;
-font-family: 'Open Sans Condensed', sans-serif;}
-p{font-family: 'Indie Flower',sans-serif}
+h1{
+  color: red;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+}
+p {font-family: 'Indie Flower',sans-serif}
