@@ -1,7 +1,10 @@
-body{background-color:white;}
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+p {font-family: 'Indie Flower', cursive;
+color: black;
+}
+body{background-color:blue;}
 h1{
-  color: red;
+  color: black;
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
 }
-p {font-family: 'Indie Flower',sans-serif}
